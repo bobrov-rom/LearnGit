@@ -1,0 +1,8 @@
+diff --git a/some.file b/some.file
+index 12c32b5..091fb87 100644
+--- a/some.file
++++ b/some.file
+@@ -1 +1,3 @@
+ me ne poniatno
++prive
++changes
